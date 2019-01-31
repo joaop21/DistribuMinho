@@ -1,5 +1,5 @@
 # DistribuMinho
-Databases project for a delivery company in MySQL and Neo4j, using SQL and Cypher.
+Databases project for a delivery company in MySQL and Neo4j, using SQL, Cypher and some JAVA.
 
 This project was carried out in the first semester of the third year of computer engineering at University of Minho. [2018-2019]
 
