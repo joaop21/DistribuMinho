@@ -9,4 +9,4 @@ in order to make its management easy.
 This project was developed by me and my colleagues, respectively:
 - https://github.com/diogofbraga
 - https://github.com/ricardofsc10
-- 
+- https://github.com/ricardomilhazes
